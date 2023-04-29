@@ -1,5 +1,5 @@
 # Maths-Brain-Trainer---Mobile
-# Lanuage: Java
+## Language - Java
 This was a University project in my final year of studies where I had to create an educational mobile application that uses the phones accelerometer. 
 I decided to make a Maths Brain Trainer game where there are stages of an additon equation with 4 answers. To choose an answer you need to tilt the phone
 in the desired direction.
