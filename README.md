@@ -1,6 +1,7 @@
 # Maths-Brain-Trainer---Mobile
-This was a University project in my final year of studies where I had to create a mobile application that uses the phones accelerometer 
-to play a maths brain trainer where you tilt the phone to choose the correct answer and advance through stages.
+This was a University project in my final year of studies where I had to create an educational mobile application that uses the phones accelerometer. 
+I decided to make a Maths Brain Trainer game where there are stages of an additon equation with 4 answers. To choose an answer you need to tilt the phone
+in the desired direction.
 
 The project has a few little bugs and things that were not quite finished like:
 - The tutorial video was just a random video to showcase the functionatlity works, it just needs a new mp4
